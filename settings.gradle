@@ -1,0 +1,2 @@
+rootProject.name='ativity_learn'
+include ':app'
